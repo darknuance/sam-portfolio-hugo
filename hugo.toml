@@ -26,7 +26,7 @@ author = "Samuel Rodrigues"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Samuel Rodrigues's personal website"
 keywords = "blog,sysadmin,personal"
-info = ["Linux Sysadmin", "Gamer"]
+info = ["Linux Sysadmin", "Enjoyer of Games"]
 avatarURL = "images/musashi_pfp.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -202,7 +202,7 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 5
 url = "contact/"
 
@@ -212,7 +212,7 @@ title = "Samuel Rodrigues"
 
 [languages.pt-br.params]
 author = "Samuel Rodrigues"
-info = ["Sysadmin Linux", "Gamer"]
+info = ["Sysadmin Linux", "Apreciador de Jogos"]
 description = "Sítio pessoal de Samuel Rodrigues"
 keywords = "blog,admin,pessoal"
 

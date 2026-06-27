@@ -14,11 +14,11 @@ Some of the skills I have include:
 - Ubuntu
 - Docker
 - Git
+- Homelabbing
 - DaVinci Resolve
 - Kuula360 Virtual Tours
-- Homelabbing
 
-Additionally I am actively working towards new skills which include:
+Additionally I'm actively working towards new skills which include:
 - Ansible
 - Prometheus/Grafana
 - RHEL
@@ -26,11 +26,16 @@ Additionally I am actively working towards new skills which include:
 - Python
 - insert-mainstream-professional-stack-here
 
-I'm also bilingual. I can speak english and portuguese very fluently, and I'm learning spanish.
+I'm also bilingual. I speak english and portuguese fluently, and I'm learning spanish.
 
 And of course, I can't end the page without mentioning I'm a huge gamer...
-- Favorite games: The Witcher 3, Titanfall 2, Resident Evil Village
+My favorite games:
+- The Witcher 3
+- Titanfall 2
+- Resident Evil Village
+- Hades
+- Shadow of the Tomb Raider
 
 
 ### About this site
-I have configured everything here from scratch using a DigitalOcean VPS running Ubuntu LTS, Nginx, Cloudflare DNS, and [this Hugo theme](https://github.com/luizdepra/hugo-coder) by fellow brazilian Luiz de Prá.
+I configured everything here from scratch using a DigitalOcean VPS running Ubuntu LTS, Nginx, Cloudflare DNS, and [this Hugo theme](https://github.com/luizdepra/hugo-coder) by fellow brazilian Luiz de Prá.
